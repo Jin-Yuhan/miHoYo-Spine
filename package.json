@@ -1,0 +1,23 @@
+{
+  "name": "mihoyo-spine",
+  "version": "1.0.0",
+  "description": "实现米哈游 Spine 动画里的 `extra` 和 `extraConfig` 字段。",
+  "main": "index.js",
+  "scripts": {
+    "init-ts": "tsc --init",
+    "tsc": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jin-Yuhan/miHoYo-Spine.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jin-Yuhan/miHoYo-Spine/issues"
+  },
+  "homepage": "https://github.com/Jin-Yuhan/miHoYo-Spine#readme",
+  "devDependencies": {
+    "typescript": "^4.9.5"
+  }
+}
